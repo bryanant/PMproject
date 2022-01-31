@@ -1,0 +1,146 @@
+{
+    "title" : "All The Games Inc.",
+    "tagline" : "Where All The Games Are Made",
+    "sections" : [
+        {
+            "name" : "News",
+            "img" : "",
+            "slug" : "/news"
+        },
+        {
+            "name" : "Studios",
+            "img" : "",
+            "slug" : "/studios"
+        },
+        {
+            "name" : "About",
+            "img" : "",
+            "slug" : "/about"
+        },
+        {
+            "name" : "Careers",
+            "img" : "",
+            "slug" : "/careers"
+        }
+    ],
+    "studios" : [
+        {
+            "id" : 1,
+            "name" : "Hole In The Wall"
+        },
+        {
+            "id" : 2,
+            "name" : "Angry Cabbage"
+        },        {
+            "id" : 3,
+            "name" : "Swarm Of Mummies"
+        }
+    ],
+    "games" : [
+        {
+            "id" : 1,
+            "studio" : 1,
+            "name" : "Game Clicker",
+            "img" : "https://i.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68",
+            "content" : "Spicy jalapeno bacon ipsum dolor amet quis tongue drumstick excepteur. Venison leberkas tenderloin consequat, shoulder eu corned beef pork loin pork chop."
+        },
+        {
+            "id" : 2,
+            "studio" : 2,
+            "name" : "Desk Simulator",
+            "img" : "https://i.picsum.photos/id/1/5616/3744.jpg?hmac=kKHwwU8s46oNettHKwJ24qOlIAsWN9d2TtsXDoCWWsQ",
+            "content" : "Laborum lorem strip steak, tail brisket short ribs ullamco ipsum qui incididunt hamburger esse. Ham burgdoggen prosciutto, consectetur picanha short loin beef magna tongue kevin elit aute fatback sausage."
+        },        {
+            "id" : 3,
+            "studio" : 1,
+            "name" : "Remake 3: The remakening",
+            "img" : "https://i.picsum.photos/id/101/2621/1747.jpg?hmac=cu15YGotS0gIYdBbR1he5NtBLZAAY6aIY5AbORRAngs",
+            "content" : "Kevin sausage quis, incididunt magna adipisicing tempor doner tri-tip. Turkey pork belly proident frankfurter. Esse qui tongue bacon proident shoulder. Sint ham hock brisket incididunt."
+        },        {
+            "id" : 4,
+            "studio" : 1,
+            "name" : "Blob",
+            "img" : "https://i.picsum.photos/id/1002/4312/2868.jpg?hmac=5LlLE-NY9oMnmIQp7ms6IfdvSUQOzP_O3DPMWmyNxwo",
+            "content" : "Bacon minim ball tip quis duis t-bone fatback venison chuck deserunt et fugiat elit chicken dolore. Ribeye et pig, ipsum chislic kielbasa spare ribs ground round jerky ham laboris short loin pork drumstick doner."
+        },        {
+            "id" : 5,
+            "studio" : 1,
+            "name" : "Bigger Desk Simulator",
+            "img" : "https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ",
+            "content" : "Voluptate ham hock ea, officia magna picanha filet mignon cow. Veniam alcatra pork chop, strip steak pork belly bacon culpa quis consequat drumstick biltong commodo sunt shoulder frankfurter."
+        },        {
+            "id" : 6,
+            "studio" : 2,
+            "name" : "Office Desk Simulator",
+            "img" : "https://i.picsum.photos/id/1031/5446/3063.jpg?hmac=Zg0Vd3Bb7byzpvy-vv-fCffBW9EDp1coIbBFdEjeQWE",
+            "content" : "Doner do meatball kielbasa. Laborum bresaola hamburger spare ribs cillum. Flank brisket tongue cillum tri-tip culpa."
+        },        {
+            "id" : 7,
+            "studio" : 2,
+            "name" : "Shooty Shooter 17",
+            "img" : "https://i.picsum.photos/id/1019/5472/3648.jpg?hmac=2mFzeV1mPbDvR0WmuOWSiW61mf9DDEVPDL0RVvg1HPs",
+            "content" : "Strip steak tenderloin deserunt short ribs nulla boudin veniam t-bone pastrami prosciutto biltong sirloin. Laborum ham hock ipsum pastrami. Anim sunt chislic, ipsum bresaola ribeye ham salami ball tip aute."
+        },        {
+            "id" : 8,
+            "studio" : 3,
+            "name" : "Generic Zombie Game",
+            "img" : "https://i.picsum.photos/id/1021/2048/1206.jpg?hmac=fqT2NWHx783Pily1V_39ug_GFH1A4GlbmOMu8NWB3Ts",
+            "content" : "Biltong ullamco landjaeger ad. Buffalo aliquip ball tip jerky irure ea elit sunt sed sirloin. Veniam dolore excepteur buffalo spare ribs non meatloaf sunt pastrami kielbasa sint cow. T-bone short loin minim, cupidatat in nulla enim aliquip fugiat."
+        },        {
+            "id" : 9,
+            "studio" : 3,
+            "name" : "Because You're Bored",
+            "img" : "https://i.picsum.photos/id/1006/3000/2000.jpg?hmac=x83pQQ7LW1UTo8HxBcIWuRIVeN_uCg0cG6keXvNvM8g",
+            "content" : "Labore officia shank sint. Burgdoggen nisi commodo, short ribs sed cupim kielbasa spare ribs kevin fatback pork loin occaecat filet mignon. Aute ut labore, non chuck porchetta corned beef. Kevin t-bone ground round pancetta doner pork loin."
+        },        {
+            "id" : 10,
+            "studio" : 2,
+            "name" : "Project Unrelated Adjectives",
+            "img" : "https://i.picsum.photos/id/1000/5626/3635.jpg?hmac=qWh065Fr_M8Oa3sNsdDL8ngWXv2Jb-EE49ZIn6c0P-g",
+            "content" : "Bacon culpa ball tip, tongue drumstick turkey alcatra do pork loin magna veniam. Quis deserunt in, pork loin buffalo enim eiusmod brisket t-bone pork belly nulla beef ribs cupidatat."
+        },        {
+            "id" : 11,
+            "studio" : 3,
+            "name" : "Super Power Ninja Turbo Neo Ultra Hyper Mega Multi Alpha Meta Extra Uber Prefix Fighter 2",
+            "img" : "https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg",
+            "content" : "Venison leberkas tenderloin consequat, shoulder eu corned beef pork loin pork chop. Laborum lorem strip steak, tail brisket short ribs ullamco ipsum qui incididunt hamburger esse."
+        }
+    ],
+    "newsPosts" : [
+        {
+            "id" : 1,
+            "game" : "",
+            "title" : "News Article Numbah 1",
+            "img" : "",
+            "content" : "Spicy jalapeno bacon ipsum dolor amet quis tongue drumstick excepteur. Venison leberkas tenderloin consequat, shoulder eu corned beef pork loin pork chop. Laborum lorem strip steak, tail brisket short ribs ullamco ipsum qui incididunt hamburger esse. Ham burgdoggen prosciutto, consectetur picanha short loin beef magna tongue kevin elit aute fatback sausage."
+        },
+        {
+            "id" : 1,
+            "game" : "",
+            "title" : "Some More Exciting News",
+            "img" : "",
+            "content" : "Kevin sausage quis, incididunt magna adipisicing tempor doner tri-tip. Turkey pork belly proident frankfurter. Esse qui tongue bacon proident shoulder. Sint ham hock brisket incididunt. Bacon minim ball tip quis duis t-bone fatback venison chuck deserunt et fugiat elit chicken dolore. Ribeye et pig, ipsum chislic kielbasa spare ribs ground round jerky ham laboris short loin pork drumstick doner."
+        },
+        {
+            "id" : 1,
+            "game" : "",
+            "title" : "You Probably Don't Care About This",
+            "img" : "",
+            "content" : "Strip steak tenderloin deserunt short ribs nulla boudin veniam t-bone pastrami prosciutto biltong sirloin. Laborum ham hock ipsum pastrami. Anim sunt chislic, ipsum bresaola ribeye ham salami ball tip aute. Biltong ullamco landjaeger ad. Buffalo aliquip ball tip jerky irure ea elit sunt sed sirloin. Veniam dolore excepteur buffalo spare ribs non meatloaf sunt pastrami kielbasa sint cow. T-bone short loin minim, cupidatat in nulla enim aliquip fugiat."
+        },
+        {
+            "id" : 1,
+            "game" : "",
+            "title" : "One Weird Trick That Will Make Game Devs Hate You",
+            "img" : "",
+            "content" : "Voluptate ham hock ea, officia magna picanha filet mignon cow. Veniam alcatra pork chop, strip steak pork belly bacon culpa quis consequat drumstick biltong commodo sunt shoulder frankfurter. Doner do meatball kielbasa. Laborum bresaola hamburger spare ribs cillum. Flank brisket tongue cillum tri-tip culpa."
+        },
+        {
+            "id" : 1,
+            "game" : "",
+            "title" : "Do Androids Dream of Apple Sheep?",
+            "img" : "",
+            "content" : "Labore officia shank sint. Burgdoggen nisi commodo, short ribs sed cupim kielbasa spare ribs kevin fatback pork loin occaecat filet mignon. Aute ut labore, non chuck porchetta corned beef. Kevin t-bone ground round pancetta doner pork loin. Bacon culpa ball tip, tongue drumstick turkey alcatra do pork loin magna veniam. Quis deserunt in, pork loin buffalo enim eiusmod brisket t-bone pork belly nulla beef ribs cupidatat."
+        }
+    ]
+}
