@@ -24,9 +24,6 @@
 	</div>
 </main>
 
-
-<!-- at the end, write up of unfinished points, potential issues that may arise, further research items, tasks that need to be completed / outstanding unknowns that weren't covered initially -->
-
 <script>
 	import * as data from './cms_export.json';
 
